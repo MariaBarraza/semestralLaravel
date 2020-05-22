@@ -137,7 +137,7 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 				<li><input name="cantidad_liquido" type="text" ></li>
 			</ul>
 			<ul>
-				<li class="text">Rodill ade extraccion  :  </li>
+				<li class="text">Rodilla de extraccion  :  </li>
 				<li>
                     <select name="rodilla" >
                         <option value="derecha">derecha</option>
